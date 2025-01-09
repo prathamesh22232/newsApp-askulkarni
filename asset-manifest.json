@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsApp-askulkarni/static/css/main.31d6cfe0.css",
+    "main.js": "/newsApp-askulkarni/static/js/main.d88cc04b.js",
+    "static/js/453.b2157c12.chunk.js": "/newsApp-askulkarni/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/newsApp-askulkarni/static/media/loading.9962a93661b097924a74.gif",
+    "index.html": "/newsApp-askulkarni/index.html",
+    "main.d88cc04b.js.map": "/newsApp-askulkarni/static/js/main.d88cc04b.js.map",
+    "453.b2157c12.chunk.js.map": "/newsApp-askulkarni/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d88cc04b.js"
+  ]
+}
